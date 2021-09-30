@@ -1,4 +1,4 @@
-# Getting Started with Create React App by Thomas
+# Getting Started with Create React App by Thomas Engzell
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
